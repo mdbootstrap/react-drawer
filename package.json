@@ -1,0 +1,31 @@
+{
+  "name": "@mdbootstrap/react-drawer",
+  "version": "1.0.0",
+  "description": "Responsive React navigation Drawer built with the latest Bootstrap 5. Examples like sliding side drawer in a container, multilevel, material, right drawer & more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-drawer.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "template",
+    "react",
+    "css",
+    "html",
+    "js",
+    "drawer"
+  ],
+  "author": "MDBootstrap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-drawer/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/react/extended/drawer"
+}
